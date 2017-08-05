@@ -5,7 +5,7 @@
   "main": "cjs/index.js",
   "browser": "dist/crossgear.js",
   "module": "es/index.js",
-  "jsxnext:main": "es/index.js",
+  "jsnext:main": "es/index.js",
   "files": [
     "dist",
     "cjs",
