@@ -9,7 +9,7 @@ const commonjs = require('rollup-plugin-commonjs');
 const name = `crossgear`;
 
 const plugins = [
-  babel({ presets: ['es2015-rollup'] }),
+  babel(),
   nodeResolve({
     module: true,
     jsnext: true

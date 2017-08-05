@@ -1,9 +1,8 @@
 #  crossgear
 
+[![Coverage Status](https://coveralls.io/repos/github/rajatsharma305/crossgear/badge.svg?branch=master)](https://coveralls.io/github/rajatsharma305/crossgear?branch=master)
+
 Cross Target Node Module Builder, build node module with `CommonJs`, `UMD` and `es/import` Support
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 
 ## Features
 
