@@ -34,7 +34,7 @@
   "keywords": [],
   "author": "Rajat Sharma (rajatsharma0720@gmail.com)",
   "license": "MIT",
-  "repository": "rajatsharma305/quark",
+  "repository": "rajatsharma305/crossgear",
   "devDependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.17.0",

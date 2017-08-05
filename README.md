@@ -5,11 +5,11 @@
 
 Cross Target Node Module Builder, build node module with `CommonJs`, `UMD` and `es/import` Support
 
-## Features
+#### Features
 
 Create `es/import`, `UMD` and `CommonJs` modules using ES6+.
 
-## Usage
+#### Usage
 
 - `npm run build` or `yarn build` to Build modules for all three target.
 
