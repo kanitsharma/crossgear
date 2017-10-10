@@ -1,2 +1,2 @@
 // example function
-export default (...fns) => x => fns.reduce((v, fn) => fn(v), x);
+export default (...fns) => x => fns.reduce((v, fn) => fn(v), x)

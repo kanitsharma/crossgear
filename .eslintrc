@@ -1,4 +1,10 @@
 {
-  "extends": "airbnb-base/legacy",
-  "parser": "babel-eslint"
+  "parser": "babel-eslint",
+  "extends":  [
+    "standard"
+  ],
+  "plugins":  [
+    "babel",
+    "promise"
+  ],
 }
